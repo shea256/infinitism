@@ -1,12 +1,12 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: ' – Nextra',
+  github: 'https://github.com/shea256/infinitism-docs',
+  docsRepositoryBase: 'https://github.com/shea256/infinitism-docs/blob/master',
+  titleSuffix: ' – Infinitism',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Infinitism</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        An ideology of human potential
+        an ideology of human potential
       </span>
     </>
   ),
@@ -16,14 +16,14 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Nextra: the Next.js site builder" />
-      <meta name="og:description" content="Nextra: the Next.js site builder" />
+      <meta name="description" content="Infinitism: an ideology of human potential" />
+      <meta name="og:description" content="Infinitism: an ideology of human potential" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="twitter:site:domain" content="nextra.vercel.app" />
-      <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Nextra: Next.js static site generator" />
-      <meta name="og:image" content="https://nextra.vercel.app/og.png" />
+      <meta name="twitter:image" content="https://infinitism.com/og.png" />
+      <meta name="twitter:site:domain" content="infinitism.com" />
+      <meta name="twitter:url" content="https://infinitism.com" />
+      <meta name="og:title" content="Infinitism: an ideology of human potential" />
+      <meta name="og:image" content="https://infinitism.com/og.png" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link
         rel="apple-touch-icon"
