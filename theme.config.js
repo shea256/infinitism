@@ -19,11 +19,11 @@ export default {
       <meta name="description" content="Infinitism: an ideology of human potential" />
       <meta name="og:description" content="Infinitism: an ideology of human potential" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://infinitism.com/og.png" />
+      <meta name="twitter:image" content="https://www.infinitism.com/infinity-colorful.jpeg" />
       <meta name="twitter:site:domain" content="infinitism.com" />
-      <meta name="twitter:url" content="https://infinitism.com" />
+      <meta name="twitter:url" content="https://www.infinitism.com" />
       <meta name="og:title" content="Infinitism: an ideology of human potential" />
-      <meta name="og:image" content="https://infinitism.com/og.png" />
+      <meta name="og:image" content="https://www.infinitism.com/infinity-colorful.jpeg" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link
         rel="apple-touch-icon"
