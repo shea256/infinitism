@@ -1,3 +1,3 @@
 # Infinitism
 
-See [infinitism.com](infinitism.com)
+See [infinitism.com](https://infinitism.com)
